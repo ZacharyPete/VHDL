@@ -1,2 +1,2 @@
 # VHDL
-In school, I had a class using an FPGA board programming it in VHDL to do certain tasts. 
+Senior year of college I had to program an FPGA board in VHDL 
